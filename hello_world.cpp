@@ -3,7 +3,10 @@ using namespace std;
 
 int main()
 {
-cout<<"hello world"<<endl;
+cout<<"hello earth"<<endl;
 
-return 0;
+return 1;
 }
+
+this is the to lockdown
+i am just testing my code 
